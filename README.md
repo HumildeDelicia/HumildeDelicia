@@ -7,14 +7,6 @@
 </p><br/>
 
 <p align='center'>
-    <a href="https://www.instagram.com/yulo0001">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-    </a>&nbsp;&nbsp;  
-</p><br/>
-
-</p><br/>
-
-<p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
